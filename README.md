@@ -1,8 +1,8 @@
-Custom keyboard layout created in Microsoft Keyboard Layout Creator 1.4 for Windows 10.
+## Custom keyboard layout created in Microsoft Keyboard Layout Creator 1.4 for Windows 10.
 
-Includes standard US keyboard layout and adds keybinds to (Æ Ø Å) and (æ ø å).
+# Includes standard US keyboard layout and adds keybinds to (Æ Ø Å) and (æ ø å).
 
-How to use:
+# How to use:
 Ctrl + Alt + ; = æ
 Ctrl + Alt + o = ø
 Ctrl + Alt + a = å
