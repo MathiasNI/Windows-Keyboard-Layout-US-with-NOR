@@ -2,7 +2,7 @@
 
 ### Includes standard US keyboard layout and adds keybinds to (Æ Ø Å) and (æ ø å).
 
-### How to use:
+#### How to use:
 Ctrl + Alt + ; = æ
 Ctrl + Alt + o = ø
 Ctrl + Alt + a = å
