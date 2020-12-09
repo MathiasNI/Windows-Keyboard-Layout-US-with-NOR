@@ -15,7 +15,7 @@ Ctrl + Alt + Shit + o = Ø
 Ctrl + Alt + Shit + a = Å
 ```
 
-If this does not match you keyboard. Check out the images of the layout. 
+If this does not match your keyboard. Check out the images of the layout. 
 
 
 Thanks and stay safe!
